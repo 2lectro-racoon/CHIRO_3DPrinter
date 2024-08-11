@@ -1,7 +1,7 @@
 # CHIRO_3DPrinter_GUIDE
 이 repo는 중앙대학교 통일공대 로봇 동아리 CHIRO를 위한 3D 프린터 사용 가이드 및 정비 가이드 관련 문서입니다.
 
-# Voron
+# [Voron](https://vorondesign.com)
 동아리의 프린터들은 대다수 Voron Design 기반으로 제작되었습니다.
 
 https://vorondesign.com
@@ -13,7 +13,7 @@ https://vorondesign.com
 
 위의 제목을 클릭하면 프루사슬라이서 초기 설정법 화면으로 이동합니다.
 
-# Klipper Firmware
+# [Klipper Firmware](https://www.klipper3d.org)
 현재 동아리방에 있는 프린터 모두 Klipper 펌웨어를 사용합니다.
 
 관련 문서는 https://www.klipper3d.org 여기서 확인 할 수 있습니다.
