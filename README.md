@@ -8,7 +8,7 @@ https://vorondesign.com
 
 오픈소스 프린터로, 제작을 위한 bom과 조립 메뉴얼, 기본 설정법들이 공유되어있습니다.
 
-# [Prusa Slicer](https://github.com/2lectro-racoon/CHIRO_3DPrinter/tree/main/PrusaSlicer)
+# [동아리 Prusa Slicer 사용법](https://github.com/2lectro-racoon/CHIRO_3DPrinter/tree/main/PrusaSlicer)
 슬라이서는 프루사슬라이서를 선택하였습니다.
 
 위의 제목을 클릭하면 프루사슬라이서 초기 설정법 화면으로 이동합니다.
