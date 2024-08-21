@@ -1,13 +1,6 @@
 # CHIRO_3DPrinter_GUIDE
 이 repo는 중앙대학교 통일공대 로봇 동아리 CHIRO를 위한 3D 프린터 사용 가이드 및 정비 가이드 관련 문서입니다.
 
-# [Voron](https://vorondesign.com)
-동아리의 프린터들은 대다수 Voron Design 기반으로 제작되었습니다.
-
-https://vorondesign.com
-
-오픈소스 프린터로, 제작을 위한 bom과 조립 메뉴얼, 기본 설정법들이 공유되어있습니다.
-
 # [동아리 Prusa Slicer 사용법](https://github.com/2lectro-racoon/CHIRO_3DPrinter/tree/main/PrusaSlicer)
 슬라이서는 프루사슬라이서를 선택하였습니다.
 
@@ -17,6 +10,19 @@ https://vorondesign.com
 현재 동아리방에 있는 프린터 모두 Klipper 펌웨어를 사용합니다.
 
 관련 문서는 https://www.klipper3d.org 여기서 확인 할 수 있습니다.
+
+# [필라멘트 교체방법](https://github.com/2lectro-racoon/CHIRO_3DPrinter/tree/main/Maintenance_Guide/Filament_Change)
+필라멘트 교체 방법입니다.
+
+작성예정입니다.
+
+# [Voron](https://vorondesign.com)
+동아리의 프린터들은 대다수 Voron Design 기반으로 제작되었습니다.
+
+https://vorondesign.com
+
+오픈소스 프린터로, 제작을 위한 bom과 조립 메뉴얼, 기본 설정법들이 공유되어있습니다.
+
 
 # Voron 2.4 300mm
 빌드 사이즈 300 * 300 * 200을 가진 프린터로 기본적으로 PLA 세팅만 제공합니다. 추후 ABS사용에도 문제는 없습니다.
