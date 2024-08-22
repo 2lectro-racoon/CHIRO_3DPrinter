@@ -46,7 +46,7 @@ ender3
 ![출력물 제거](images/remove.jpeg)
 베드 시트를 통째로 떼어내서 살짝 휘어주면 쉽게 제거가 됩니다. 작은 부품들의 경우 시트가 베드에 붙어있는 상태에서도 손으로 잡고 톡하고 띄어주시면 분리되는 경우도 있습니다.
 
-### 다시한번 이야기 하지만 절데로 금속 헤라나 칼과 같은 날카로운 도구로 제거하지마세요.
+### 다시한번 이야기 하지만 절대로 금속 헤라나 칼과 같은 날카로운 도구로 제거하지마세요.
 
 # [필라멘트 교체방법](https://github.com/2lectro-racoon/CHIRO_3DPrinter/tree/main/Maintenance_Guide/Filament_Change)
 필라멘트 교체 방법입니다.
