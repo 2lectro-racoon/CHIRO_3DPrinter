@@ -3,7 +3,17 @@
 
 # [동아리 프린터](https://github.com/2lectro-racoon/CHIRO_3DPrinter/tree/main/Printers)
 
-동아리방에 보유중인 리스트들입니다.
+동아리방에 보유중인 프린터 리스트입니다.
+
+총 3대의 프린터를 운용중에 있으며 종류는 아래와 같습니다.
+
+Voron 2.4
+
+Sapphire Plus v3 trident
+
+ender3
+
+해당 프린터의 사진은 위 소제목을 클릭하면 확인하실 수 있습니다.
 
 # [예약 구글 스프레드 시트](https://docs.google.com/spreadsheets/d/1wqA8Xc8Nbucf8mbVy7zQWF-za3Rr88YbO-wAvKrq4g4/edit?usp=sharing)
 
