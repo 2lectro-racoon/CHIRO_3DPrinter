@@ -57,6 +57,5 @@ ender3
 ### 다시한번 이야기 하지만 절대로 금속 헤라나 칼과 같은 날카로운 도구로 제거하지마세요.
 
 # [필라멘트 교체방법](https://github.com/2lectro-racoon/CHIRO_3DPrinter/tree/main/Maintenance_Guide/Filament_Change)
-필라멘트 교체 방법입니다.
 
-작성예정입니다.
+필라멘트 교체 방법입니다. 위 제목을 클릭하시면 상세 게시물로 이동됩니다.
